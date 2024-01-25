@@ -1,5 +1,8 @@
 # REAL-TIME-INTRANET-BASED-FOOD-ORDERING-SYSTEM
-● Designed and implemented a food ordering application using HTML, CSS, JavaScript, Node JS, My SQL.  ● Enabled users to order food using Intranet, where 3000+ people can order at same time. 
+● Designed and implemented a food ordering application using HTML, CSS, JavaScript, Node JS, and My SQL.  ● Enabled users to order food using Intranet, where 3000+ people can order at the same time.
+
+This project is a real-time intranet-based food ordering system, developed using HTML, CSS, JavaScript, and MariaDB. Users can access the system within the organization's intranet to conveniently place food orders. The user interface is designed using HTML and CSS for a visually appealing and intuitive experience. JavaScript is implemented to enhance interactivity and provide real-time updates.
+The system relies on MariaDB for efficient and secure data management, handling aspects such as user accounts, menu items, and order history. Users can browse the menu, select items, and place orders seamlessly through the user-friendly web interface. The real-time nature of the system ensures instant updates on order status, providing a streamlined and efficient food ordering experience within the organization's intranet.
 
 
 
